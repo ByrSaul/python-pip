@@ -7,3 +7,14 @@ Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 cd game
 python3 main.py
 ```
+
+#App Project
+
+```sh
+git clone
+cd app
+.\venv\Scripts\activate #windows
+source env/bin/activate #linux or mac
+pip3 install -r requirements.txt
+python3 main.py
+```
